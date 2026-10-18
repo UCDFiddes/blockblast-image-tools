@@ -1,0 +1,1 @@
+A simple image processing tool to extract Block blast puzzle shapes from a phone screenshot. It automatically crops and applies a black-and-white filter to isolate the puzzle shapes for easier analysis.
